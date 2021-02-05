@@ -1,0 +1,7 @@
+# 妇幼0-3岁系统
+
+## 获取儿童筛查信息
+```
+Get /nauth/v1/kidhealthy
+```
+>请求参数 identityCardNumber: 儿童身份证号; childrenName: 儿童姓名
