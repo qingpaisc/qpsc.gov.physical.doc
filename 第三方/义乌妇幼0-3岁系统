@@ -5,3 +5,4 @@
 Get /nauth/v1/kidhealthy
 ```
 >请求参数 identityCardNumber: 儿童身份证号; childrenName: 儿童姓名
+>返回数据见相关文档
